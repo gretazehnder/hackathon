@@ -7,6 +7,8 @@
 
 ## Live links
 
+> ⚠️ Services have been shut down after the hackathon to avoid costs. The code is fully available in this repository.
+
 | Service | URL |
 |---|---|
 | **Streamlit Dashboard** | [engine-frontend-339853300574.europe-west1.run.app](https://engine-frontend-339853300574.europe-west1.run.app/) |
