@@ -62,6 +62,7 @@ hackathon/
 ├── best_lstm.pt            # Best checkpoint during training
 ├── scaler_final.pkl        # MinMaxScaler fitted on training data
 ├── feature_list.pkl        # List of 17 live sensor features
+├── hackathon pitch.pdf     # project presentation slides
 ├── feature_importance.pkl  # Gradient × Input importance scores
 ├── engine_ranking.csv      # Lead time ranking for all 100 engines
 ├── pyproject.toml          # Poetry dependencies
