@@ -60,9 +60,10 @@ hackathon/
 ├── rul_lstm_pytorch.ipynb  # Full training notebook (EDA → LSTM → evaluation)
 ├── lstm_final.pt           # Pre-trained LSTM model weights
 ├── best_lstm.pt            # Best checkpoint during training
+├── costestimatesummary.csv # Cost estimate summary
 ├── scaler_final.pkl        # MinMaxScaler fitted on training data
 ├── feature_list.pkl        # List of 17 live sensor features
-├── hackathon pitch.pdf     # project presentation slides
+├── hackathon pitch.pdf     # Project presentation slides
 ├── feature_importance.pkl  # Gradient × Input importance scores
 ├── engine_ranking.csv      # Lead time ranking for all 100 engines
 ├── pyproject.toml          # Poetry dependencies
