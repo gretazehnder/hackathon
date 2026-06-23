@@ -75,6 +75,8 @@ hackathon/
 
 ---
 ## Dashboard preview
+<img width="1742" height="368" alt="image" src="https://github.com/user-attachments/assets/562396c5-f083-453b-8a0c-c5ac046466f8" />
+
 <img width="1280" height="634" alt="PHOTO-2026-05-24-11-22-44" src="https://github.com/user-attachments/assets/c05b5904-f607-4d1a-a1ee-a382120662dd" />
 
 ---
